@@ -1,0 +1,24 @@
+{
+  "name": "synvex",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "autor": "Manuel D. Nunez",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-alias": "^5.1.1",
+    "@rollup/plugin-commonjs": "^28.0.1",
+    "rollup": "^4.24.3",
+    "rollup-plugin-svg": "^2.0.0"
+  },
+  "keywords": [
+    "icons",
+    "SVG",
+    "IconifyML",
+    "custom-icons",
+    "UI components"
+  ],
+  "description": "An easy-to-use icon library without complex configs."
+}
