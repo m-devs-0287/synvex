@@ -1,3 +1,4 @@
+![Synvex Logo](https://raw.githubusercontent.com/m-devs-0287/synvex/refs/heads/main/assets/logo.png)
 # Synvex
 
 ## Effortless Integration, Precision Design — Synvex brings icons to life with balance and simplicity.
